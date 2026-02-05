@@ -2,11 +2,11 @@
 A classic two-player Pong game built using Python's Turtle graphics module.
 
 ## 📁Project Structure  
-pong-game/
-├── main.py          # Game initialization and main loop
-├── paddle.py        # Paddle class and controls
-├── ball.py          # Ball class with movement and collision logic
-├── scoreboard.py    # Score tracking and display
+pong-game/  
+├── main.py          # Game initialization and main loop  
+├── paddle.py        # Paddle class and controls  
+├── ball.py          # Ball class with movement and collision logic  
+├── scoreboard.py    # Score tracking and display  
 └── README.md        # This documentation
 
 ## 🎮 Game Features  
