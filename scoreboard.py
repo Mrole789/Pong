@@ -23,7 +23,7 @@ class Scoreboard(Turtle):
         else:
             self.score2 += 1
         self.clear()
-        self.goto(-100,150)
+        self.goto(-125,150)
         self.write(f'{self.score}', font=FONT)
         self.goto(50,150)
         self.write(f'{self.score2}', font=FONT)
